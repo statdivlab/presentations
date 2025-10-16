@@ -1,1 +1,4 @@
+ebame10/3-abundance.pdf filter=lfs diff=lfs merge=lfs -text
+ebame10/1-foundations.pdf filter=lfs diff=lfs merge=lfs -text
+ebame10/2-regression.pdf filter=lfs diff=lfs merge=lfs -text
 ebame10/*.pdf filter=lfs diff=lfs merge=lfs -text
